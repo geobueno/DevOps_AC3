@@ -1,4 +1,4 @@
-nomes = ['Pedro', 'João', 'Leticia','Laura','Felipe','Luiza']
+nomes = ['Pedro', 'João', 'Leticia','Laura','Felipe']
 for n in nomes:
   print(n)
 else:
